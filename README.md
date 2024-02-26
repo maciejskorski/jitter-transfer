@@ -1,2 +1,3 @@
-# jitter-transfer
-The paper and code explaining jitter transfer in ring oscillators.
+# Jitter Transfer in Ring Oscillators
+
+The paper and code explaining quantitatively jitter transfer in ring oscillators.
